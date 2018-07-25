@@ -1,4 +1,5 @@
-A React App
-Clone this repo
-Run npm install
-Run npm start
+A React App\
+Clone this repo\
+Run npm install\
+Run npm start\
+
